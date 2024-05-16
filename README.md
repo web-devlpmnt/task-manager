@@ -1,6 +1,10 @@
-# TaskManager
+# Task Manager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
+
+## Install Dependencies
+
+To install all dependencies, run `npm install`
 
 ## Development server
 
